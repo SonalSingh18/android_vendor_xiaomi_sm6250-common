@@ -1231,7 +1231,7 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
     WfdService \
-    WfdCommon \
+#    WfdCommon \
     android.hardware.gnss@2.1-service-qti \
     android.hardware.neuralnetworks@1.3-service-qti-hta \
     android.hardware.neuralnetworks@1.3-service-qti \
